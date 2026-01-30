@@ -6,7 +6,7 @@ Status: In Progress (Refactoring)
 Background:
 This project is a personal milestone. Originally built during my Freshman year as a basic HTML/JS exercise, I am now refactoring it as a Sophomore to implement what I've learned, better UI/UX, and real-time data integration.
 
-The Goal: Moving from a static prototype to a production-ready web application with a focus on "Native Feel" interaction.
+The Goal: Moving from a static prototype to a production-ready web application.
 
 Refactoring Goals & Progress:
 I am currently refactoring it to meet industry standards:
